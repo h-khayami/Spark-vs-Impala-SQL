@@ -5,7 +5,7 @@ Comparison of some SQL syntaxes of Spark and Impala
    
 |Spark     | Impala|
 |:------:   | :------:|
-|![Spark](images/spark-logo-hd.png)| ![Impala](images/impala-logo.png)|
+|![Spark](https://spark.apache.org/docs/2.3.1/img/spark-logo-hd.png)| ![Impala](https://impala.apache.org/img/impala-logo.png)|
 
 
 <br>
