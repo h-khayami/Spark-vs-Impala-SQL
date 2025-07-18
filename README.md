@@ -5,8 +5,7 @@ Comparison of some SQL syntaxes of Spark and Impala
    
 |Spark     | Impala|
 |:------:   | :------:|
-|![Spark](https://spark.apache.org/images/spark-logo-rev.svg)| ![Impala](https://impala.apache.org/img/impala-logo.png)|
-
+|![Spark](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1024px-Apache_Spark_logo.svg.png)| ![Impala](https://impala.apache.org/img/impala-logo.png)|
 <br>
 
 I attempted to summarize basic SQL commands and highlight some Spark SQL exclusive statements, comparing them with Impala SQL.
